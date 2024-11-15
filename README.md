@@ -1,9 +1,9 @@
 
-# Documentación del Código: Generador de Claves de Serie y Verificación con Algoritmo de Luhn
+# Generador de Claves de Serie y Verificación con Algoritmo de Luhn
 
 ## Descripción General
 
-Este programa en TypeScript genera claves de serie de 15 dígitos con un sufijo de dos dígitos que puede ser personalizado (por ejemplo, "-24"). Las claves de serie se generan de forma que cumplan con el **algoritmo de Luhn** para verificar su validez. El programa incluye las siguientes funcionalidades:
+Este programa en TypeScript genera claves de serie de hasta 15 dígitos con un sufijo de dos dígitos que puede ser personalizado (por ejemplo, "-24"). Las claves de serie se generan de forma que cumplan con el **algoritmo de Luhn** para verificar su validez. El programa incluye las siguientes funcionalidades:
 
 - **Generación de claves de serie válidas** según el algoritmo de Luhn.
 - **Validación de las claves generadas** para asegurar que cumplen con Luhn.
